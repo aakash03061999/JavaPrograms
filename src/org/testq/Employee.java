@@ -8,6 +8,10 @@ public class Employee {
 	int age=20;
 	System.out.println("Aakash age is :"+age);
 	
+	int pinNo=2332323;
+
+	System.out.println("Pin no is :"+pinNo);
+	
 	
 	}	
 }
