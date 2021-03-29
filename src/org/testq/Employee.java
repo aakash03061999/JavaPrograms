@@ -8,6 +8,9 @@ public class Employee {
 	int age=20;
 	System.out.println("Aakash age is :"+age);
 	
+	long phNo=34534567456l;
+	System.out.println("My phone no is :"+phNo);
+	
 	
 	}	
 }
